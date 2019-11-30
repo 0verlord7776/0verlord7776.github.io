@@ -4,7 +4,7 @@
 
         <body>
             
-            <p><strong>Welcome</strong>.</p>
+            <p><strong>Welcome</strong></p>
             
             <hr>
             
