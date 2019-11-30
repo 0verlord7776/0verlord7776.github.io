@@ -16,13 +16,13 @@
                     <tr>
                         <th>Name</th>
                         <th>Gender</th>
-                        <th>website</th>
+                        <th>Work</th>
                         <th>Hobbies</th>
                     </tr>
                     <tr>
                         <td>Shubham Tembhurkar</td>
                         <td>Male</td>
-                        <td><a href="http://google.com">Shubahm </a></td>
+                        <td>Analyst</td>
                         <td>Biking ,Football analysis,Surfing ,Coding</td>
                     </tr>
             </table>
