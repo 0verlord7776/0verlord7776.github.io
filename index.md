@@ -1,4 +1,4 @@
-<!DOCTYPE html>
+
 <html>
 <head>
     <title>HTML Project</title>
@@ -6,13 +6,13 @@
     </head>
 
         <body>
-            <h1>0verlord7776's Hylia</h1>
+            
             <p><strong>Hi,my name is Shubham</strong>.</p>
             
             <hr>
             
             <h2>Some info about me </h2>
-            <img src="11.jpg" alt="Shubham Smiling" height="300" width="300">
+            
     
     
             <table>
