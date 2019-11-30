@@ -1,7 +1,4 @@
 
-<html>
-<head>
-    <title>HTML Project</title>
     
     </head>
 
@@ -69,7 +66,6 @@
             <p>&copy; 2019 &mdash; Shubham Tembhurkar</p>
     </body>
 
-</html>
 
 
 
